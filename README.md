@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/352158324?v=4" alt="FeBe" width="140">
+  <img src="images/banniere-febe.jpg" alt="FeBe - Hardware & software for makers" width="100%">
 </p>
 
 <h1 align="center">FeBe - logiciels libres pour makers</h1>
